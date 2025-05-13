@@ -4,5 +4,5 @@
 node main.js games/sokoban.ps -l 1 -a BFS
 ```
 
--l for levels
+-l for levelIndex
 -a for the algorithm BFS, ASTAR, MCTS
